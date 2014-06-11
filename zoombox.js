@@ -1,6 +1,8 @@
 var scr=document.getElementsByTagName('script');
 var zoombox_path = scr[scr.length-1].getAttribute("src").replace('zoombox.js','');
 
+// test
+
 (function($){
 
 var options = {
